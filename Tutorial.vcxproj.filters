@@ -21,7 +21,7 @@
     <ClCompile Include="BinarySearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fatTree.cpp">
+    <ClCompile Include="TestTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
